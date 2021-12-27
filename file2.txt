@@ -1,1 +1,2 @@
 feature added form john
+another commit to file2 from john
